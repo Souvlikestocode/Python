@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souvlikestocode
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning SQL and Excel
+- 🌱 I've learnt Excel, SQL and Python
 - 💞️ I’m looking to collaborate on projects with fellow coders 
 
 Souvlikestocode/Souvlikestocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
